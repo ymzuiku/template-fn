@@ -1,6 +1,6 @@
 {
   "name": "template-fn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "umd/index.js",
   "types": "umd/index.d.ts",
   "private": false,
@@ -40,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ymzuiku/base-root-css.git"
+    "url": "git+https://github.com/ymzuiku/template-fn.git"
   },
   "bugs": {
-    "url": "git+https://github.com/ymzuiku/base-root-css.git"
+    "url": "git+https://github.com/ymzuiku/template-fn.git"
   }
 }
